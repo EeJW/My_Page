@@ -1,4 +1,3 @@
-# My_Page
 # Self-Introduction
 
 1. Hello, I'm JongWon
